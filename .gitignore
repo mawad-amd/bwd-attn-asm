@@ -1,0 +1,6 @@
+*.hsaco
+*.o
+*.so
+*.bak*
+__pycache__/
+*.pyc
